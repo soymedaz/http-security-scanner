@@ -41,7 +41,7 @@ The project is intentionally small and transparent, making it useful for develop
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/http-security-scanner.git
+git clone https://github.com/soymedaz/http-security-scanner.git
 cd http-security-scanner
 ```
 
